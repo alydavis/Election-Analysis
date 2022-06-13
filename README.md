@@ -28,5 +28,20 @@ The analysis of the election show that:
     - Candidate Diana DeGette, who recieved 73.8% of the vote and 272,892 votes.
 
 ## Challenge Overview
+Upon completing the election analysis, the election commision has requested additional data:
+- The voter turnout for each county
+- The percentage fo votes from each county out of the total count
+- The county with the highest turnout.
 
 ## Challenge Summary
+- The voter turnout for each county:
+    - Arapahoe County: 24,801 votes
+    - Denver County: 306,055 votes
+    - Jefferson County: 38,855 votes
+- The percentage fo votes from each county out of the total count
+    - Arapahoe County: 6.7%
+    - Denver County: 82.8%
+    - Jefferson County: 10.5%
+- The county with the highest turnout was Denver, with 82.8% of the votes and 306,055 votes.
+
+![Election_Results](Resources/Text_file_screenshot.png)
