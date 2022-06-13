@@ -38,10 +38,12 @@ Upon completing the election analysis, the election commision has requested addi
     - Arapahoe County: 24,801 votes
     - Denver County: 306,055 votes
     - Jefferson County: 38,855 votes
-- The percentage fo votes from each county out of the total count
+- The percentage of votes from each county out of the total count
     - Arapahoe County: 6.7%
     - Denver County: 82.8%
     - Jefferson County: 10.5%
 - The county with the highest turnout was Denver, with 82.8% of the votes and 306,055 votes.
 
 ![Election_Results](Resources/Text_file_screenshot.png)
+
+This script could be used for future elections in Colorado or other geographies. We could easily measure a much larger data set and look into granular voter turnout by city, voting precinct, district, or zip code. This script could also be used at a macro level to aggregate votes by states for a much larger data set. This code can easily scale for different elected positions, say county Sherrif, or any number of candidates by simply defining the appropriate variables, lists, or dictionaries.
